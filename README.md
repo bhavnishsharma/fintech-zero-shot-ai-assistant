@@ -9,10 +9,10 @@ An evidence-based FinTech prompt engineering portfolio demonstrating zero-shot A
 **Institution:** Chitkara University  
 **Program:** BBA FinTech  
 **Lab:** 1 — Zero-Shot Prompting  
-**Student:** [Full Name]  
-**Student ID:** [ID]  
+**Student:** Bhavnish Sharma
+**Student ID:** 2620992558
 **Academic Session:** 2026–2027  
-**AI Tool/Model:** [Tool and model used]  
+**AI Tool/Model:** Chatgpt GPT 4 
 **Status:** Educational Prototype
 
 ---
